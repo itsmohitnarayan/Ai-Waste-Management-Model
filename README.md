@@ -46,6 +46,6 @@ To use the model, follow these steps:
 3. The trained model is saved as `waste_management_model.keras`.
 
 ## License
-This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Researved and private. See the [LICENSE](LICENSE) file for details.
 
 **Note:** This project is private and utilizes a patented approach. Unauthorized use or distribution is prohibited.
